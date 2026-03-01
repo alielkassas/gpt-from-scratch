@@ -27,6 +27,41 @@
 | 6 | **Fine-Tuning for Classification** | Transfer learning, classification head, freezing vs full fine-tuning, evaluation metrics | Adapt GPT for sentiment or text classification |
 | 7 | **Fine-Tuning to Follow Instructions** | Instruction datasets, prompt formatting, supervised fine-tuning (SFT), loss masking | Build an instruction-following mini-LLM |
 
+
+---
+
+## How to Approach This Course
+
+The notebooks in this course **build upon each other sequentially**, guiding you from foundational concepts to advanced LLM implementation.  
+
+> 💡 **Pro tip:** If you are already familiar with **Deep Learning, Linear Algebra, and PyTorch basics**, you can safely skip the first module and jump to the sections that interest you most.
+
+
+To get the most out of this learning experience — We recommend learn by doing, experimenting, and visualizing (inspired by [Learn PyTorch](https://www.learnpytorch.io/) book):
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/docs-how-to-approach-this-course-no-header.png" width="300" alt="Build a Large Language Model From Scratch Book Cover">
+</p>
+
+
+1. **Code Along First**  
+   Run and write the code yourself — this builds muscle memory and confidence.
+
+2. **Explore and Experiment**  
+   Try variations and small changes to see how behavior differs. Deep learning is highly experimental.
+
+3. **Visualize What You Don’t Understand**  
+   Plot attention scores, masks, losses, embeddings — visual intuition accelerates understanding.
+
+4. **Ask Questions Early**  
+   If something isn’t making sense, search for answers, ask peers, reach us or open discussions.
+
+5. **Complete the Exercises**  
+   Each section includes exercises designed to solidify core ideas.
+
+6. **Share Your Work**  
+   Share notebooks, results, and insights — teaching others reinforces your own knowledge.
+
 ---
 
 ## Acknowledgment
