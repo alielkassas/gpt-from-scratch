@@ -27,6 +27,13 @@
 | 6 | **Fine-Tuning for Classification** | Transfer learning, classification head, freezing vs full fine-tuning, evaluation metrics | Adapt GPT for sentiment or text classification |
 | 7 | **Fine-Tuning to Follow Instructions** | Instruction datasets, prompt formatting, supervised fine-tuning (SFT), loss masking | Build an instruction-following mini-LLM |
 
+The mental model below summarizes the contents covered in this course.
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/f3c959d1ac09015899f56611653558b85801475664b555413030cdddaa0ecf34/68747470733a2f2f73656261737469616e72617363686b612e636f6d2f696d616765732f4c4c4d732d66726f6d2d736372617463682d696d616765732f6d656e74616c2d6d6f64656c2e6a7067" width="300">
+</p>
+
+
 ---
 
 ## Prerequisites
