@@ -1,4 +1,4 @@
-# Pytorch
+# Linear Algebra
 
 ## Recommended Videos
 
