@@ -27,6 +27,15 @@
 | 6 | **Fine-Tuning for Classification** | Transfer learning, classification head, freezing vs full fine-tuning, evaluation metrics | Adapt GPT for sentiment or text classification |
 | 7 | **Fine-Tuning to Follow Instructions** | Instruction datasets, prompt formatting, supervised fine-tuning (SFT), loss masking | Build an instruction-following mini-LLM |
 
+---
+
+## Prerequisites
+
+To get the most out of this course, you should have:
+
+- **Strong Python programming skills** – the course is hands-on and code-first.  
+- **At least one beginner-level machine learning course** – to understand basic ML concepts, loss functions, and training loops.  
+- **Some familiarity with deep neural networks** – many LLM concepts build on standard architectures like feed-forward networks, normalization and skip connections.
 
 ---
 
