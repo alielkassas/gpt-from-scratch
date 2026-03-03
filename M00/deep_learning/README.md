@@ -8,3 +8,6 @@
 ## Further Reading
 
 - [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) - Check chapter 2, 3, 9, and 10
+
+## Additional Resources
+- [A Neural Network Playground](https://playground.tensorflow.org/)
