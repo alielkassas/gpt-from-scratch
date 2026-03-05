@@ -6,7 +6,7 @@
 ## Further Reading
 - [Summary of the tokenizers](https://huggingface.co/docs/transformers/en/tokenizer_summary)
 - [Byte-Pair Encoding tokenization](http://huggingface.co/learn/llm-course/en/chapter6/5)
-- [Training a new tokenizer from an old one](https://huggingface.co/learn/llm-course/en/chapter6/2ss)
+- [Training a new tokenizer from an old one](https://huggingface.co/learn/llm-course/en/chapter6/2)
 
 
 ## Additional Resources
