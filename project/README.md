@@ -14,6 +14,8 @@ The goal of this project is to implement, pretrain, fine tune GPT (*Decoder-Only
 - (Bonus) Handle Multi-language Data (specifically UTF-8/Arabic support).
 - Evaluate model performance using Loss Curves and Text Generation.
 
+---
+
 ## Data Requirements & Examples
 
 This project consists of two distinct phases. You must prepare data for both phases to demonstrate the full lifecycle of an LLM.
@@ -62,6 +64,8 @@ This project consists of two distinct phases. You must prepare data for both pha
 ]
 ```
 
+---
+
 ## Project Examples
 
 To demonstrate the model's versatility, you are encouraged to train or test on Arabic corpora. Below are examples for your final demo.
@@ -70,6 +74,7 @@ To demonstrate the model's versatility, you are encouraged to train or test on A
 2. Poetry: Train the model to generate rhyming verses.
 3. Stories:Train the model to generate coherent narratives with a beginning, middle, and end.
 
+---
 
 ## Project Rubric (Total: 100 Points)
 Your project will be graded out of 100 Points based on the following criteria:
@@ -111,6 +116,8 @@ Your project will be graded out of 100 Points based on the following criteria:
    - Key learnings
    - Future work
 ```
+
+---
 
 ## Project Structure
 The recommended structure for your repo is as follows:
